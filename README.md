@@ -38,17 +38,12 @@ The aim is to help the business improve sales strategy, customer targeting, and 
 - Sales peaked in **March and December.**
 
 ---
-
-## 📈 Final Dashboard Screenshot
-![image alt](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/042b647aa223d60018f5a3beb162fd44251135d8/VrindaStore-Dashboard%20report.png)
 ## 📊 **Dashboard Preview**
 Below are some visuals from the dashboard:
 
 ### **1. Orders: Age vs Gender**
 Women placed significantly more orders across all age groups—Adults, Seniors, and Younger customers.
-
-*(Screenshot)*  
-![Age vs Gender](Pivot chart Screenshot-1.png)
+![image](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/4b5e882e107574316923dc296afd4e4766b883af/Age%20vs%20Gender%20Pivot%20chart%20Screenshot-1.png)
 
 ---
 
@@ -64,7 +59,8 @@ Top contributing states:
 ![Top 5 states](Pivot chart Screenshot-2.png)
 
 ---
-
+## 📈 Complete Excel Dashboard
+![image alt](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/042b647aa223d60018f5a3beb162fd44251135d8/VrindaStore-Dashboard%20report.png)
 ---
 
 ## 📂 Files Included
