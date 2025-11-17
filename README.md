@@ -43,7 +43,7 @@ Below are some visuals from the dashboard:
 
 ### **1. Orders: Age vs Gender**
 Women placed significantly more orders across all age groups—Adults, Seniors, and Younger customers.
-![image](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/4b5e882e107574316923dc296afd4e4766b883af/Age%20vs%20Gender%20Pivot%20chart%20Screenshot-1.png)
+![image alt](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/4b5e882e107574316923dc296afd4e4766b883af/Age%20vs%20Gender%20Pivot%20chart%20Screenshot-1.png)
 
 ---
 
@@ -54,9 +54,8 @@ Top contributing states:
 - Madhya Pradesh  
 - Karnataka  
 - Gujarat
+![image alt](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/d3185bde555988c6fd7ee73fa999c7209060f1a1/Top%205%20Sates%20Pivot%20chart%20Screenshot-2.png)
 
-*(Screenshot)*  
-![Top 5 states](Pivot chart Screenshot-2.png)
 
 ---
 ## 📈 Complete Excel Dashboard
