@@ -39,9 +39,31 @@ The aim is to help the business improve sales strategy, customer targeting, and 
 
 ---
 
-## 📈 Dashboard Screenshot
+## 📈 Final Dashboard Screenshot
 ![image alt](https://github.com/laxmi501/Vrinda-Store-Data-Analysis/blob/042b647aa223d60018f5a3beb162fd44251135d8/VrindaStore-Dashboard%20report.png)
+## 📊 **Dashboard Preview**
+Below are some visuals from the dashboard:
 
+### **1. Orders: Age vs Gender**
+Women placed significantly more orders across all age groups—Adults, Seniors, and Younger customers.
+
+*(Screenshot)*  
+![Age vs Gender](Pivot chart Screenshot-1.png)
+
+---
+
+### **2. Sales: Top 5 States**
+Top contributing states:  
+- Maharashtra  
+- Tamil Nadu  
+- Madhya Pradesh  
+- Karnataka  
+- Gujarat
+
+*(Screenshot)*  
+![Top 5 states](Pivot chart Screenshot-2.png)
+
+---
 
 ---
 
@@ -60,9 +82,13 @@ The aim is to help the business improve sales strategy, customer targeting, and 
 - Understanding of customer segmentation and sales strategy  
 
 ---
+## 🚀 **Conclusion**
+This project demonstrates how Excel can be used to analyze customer trends, statewise performance, and channel contribution to generate actionable business insights. The dashboard helps Vrinda Store plan its 2023 strategy more effectively.
 
+---
 ## 📬 Contact
 For queries or collaboration:
+
 **Name – Laxmi**  
 Email: *laxmisirkelaxmisirke@gmail.com*  
 LinkedIn: *linkedin.com/in/laxmisirke*
